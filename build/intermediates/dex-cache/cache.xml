@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/administrator/AndroidStudioProjects/MyApplication/mortgagecalculator/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/administrator/AndroidStudioProjects/MyApplication/mortgagecalculator/build/intermediates/pre-dexed/debug/classes-ca36fc489f78202b07e10ba2cdacf9b545d97e7e.jar" />
+    </item>
+    <item
+        jar="/Users/administrator/AndroidStudioProjects/MyApplication/mortgagecalculator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/administrator/AndroidStudioProjects/MyApplication/mortgagecalculator/build/intermediates/pre-dexed/debug/classes-2dc9950c9f2f5b8ae4884c225dc11fc578d86ba0.jar" />
+    </item>
+    <item
+        jar="/Users/administrator/AndroidStudioProjects/Mortgage Calculator/mortgagecalculator/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/administrator/AndroidStudioProjects/Mortgage Calculator/mortgagecalculator/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8d38b44ac6fc0f28d6c95260601cd44ba6db7839.jar" />
+    </item>
+    <item
+        jar="/Users/administrator/AndroidStudioProjects/MyApplication/sample3/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/administrator/AndroidStudioProjects/MyApplication/sample3/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7b1947fdf8be16f4762da3ba5ec0ddadab9c51f9.jar" />
+    </item>
+    <item
+        jar="/Users/administrator/Documents/Master-BackUp/adt-bundle-mac-x86_64-20130219/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/administrator/AndroidStudioProjects/MyApplication/sample3/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8de357c8dee5edc101a8cbc23487f8f1eaaf543e.jar" />
+    </item>
+    <item
+        jar="/Users/administrator/AndroidStudioProjects/MyApplication/mortgagecalculator/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/administrator/AndroidStudioProjects/MyApplication/mortgagecalculator/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-5ba099d552f023e82199069062e22547dbc21fc7.jar" />
+    </item>
+    <item
+        jar="/Users/administrator/AndroidStudioProjects/Mortgage Calculator/mortgagecalculator/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/administrator/AndroidStudioProjects/Mortgage Calculator/mortgagecalculator/build/intermediates/pre-dexed/debug/classes-9eb541a3adf77b60ed7a76a4c05ee1be2407fabc.jar" />
+    </item>
+    <item
+        jar="/Users/administrator/AndroidStudioProjects/Mortgage Calculator/mortgagecalculator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/administrator/AndroidStudioProjects/Mortgage Calculator/mortgagecalculator/build/intermediates/pre-dexed/debug/classes-7fc12f1d2ef27add9c448c0fdf1b30b599c42801.jar" />
+    </item>
+    <item
+        jar="/Users/administrator/AndroidStudioProjects/MyApplication/sample3/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/administrator/AndroidStudioProjects/MyApplication/sample3/build/intermediates/pre-dexed/debug/classes-370f5772f06faf8ab612435841dfa7e8d4b8d4ac.jar" />
+    </item>
+    <item
+        jar="/Users/administrator/AndroidStudioProjects/MyApplication/sample3/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/administrator/AndroidStudioProjects/MyApplication/sample3/build/intermediates/pre-dexed/debug/classes-7b02479713ea55ba7767105b3c90b21b5d2158e6.jar" />
+    </item>
+
+</items>

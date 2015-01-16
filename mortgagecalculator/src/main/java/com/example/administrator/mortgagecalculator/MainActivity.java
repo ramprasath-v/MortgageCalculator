@@ -41,6 +41,9 @@ public class MainActivity extends ActionBarActivity {
         termRadioGroup = (RadioGroup) findViewById(R.id.myRadioGroup);
         taxCheck = (CheckBox) findViewById(R.id.checkTax);
         calculateButton = (Button) findViewById(R.id.calculate);
+        radioButton7 = (RadioButton) findViewById(R.id.radio7);
+        radioButton15 = (RadioButton) findViewById(R.id.radio15);
+        radioButton30 = (RadioButton) findViewById(R.id.radio30);
 
         //gets values from seekbar
         interestRate.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
@@ -71,8 +74,12 @@ public class MainActivity extends ActionBarActivity {
                 //validates amount borrowed field
                 if (amountTextValue.matches("")){
                     displayErrorMessage("Enter value in Amount Field");
+                    paymentValue.setTextColor(Color.parseColor("#48b427"));
+                    paymentValue.setText("Your Monthly Payment is " );               
                 }
-
+                 else if(radioButton7.isChecked()==false && radioButton15.isChecked()==false && radioButton30.isChecked()==false){
+                    displayErrorMessage("Select loan term in years option");
+                }
                 else {
                     amountBorrowed = Double.parseDouble(amountTextValue);
                     int selectedId = termRadioGroup.getCheckedRadioButtonId();
